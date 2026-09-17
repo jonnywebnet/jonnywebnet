@@ -7,14 +7,14 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:jonnyweb.net@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  <img src="https://img.shields.io/badge/E--mail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
 
 ## Sobre mim
 
 Estudante de Engenharia de Software (3º período) na Universidade de Vassouras, sediado em Saquarema - RJ. Foco em desenvolvimento web (Backend/Frontend) e arquitetura de software, com o objetivo de construir soluções estruturadas e eficientes. Em busca da primeira oportunidade de estágio na área de tecnologia.
 
-🛠 Tecnologias
+## 🛠 Tecnologias
 
 Backend: Python, Django, Django REST Framework, Node.js
 
@@ -24,7 +24,7 @@ Bancos de Dados: PostgreSQL, MySQL, SQLite, SQL
 
 Ferramentas e Fundamentos: Git, GitHub, APIs REST
 
-📌 Projetos Principais
+## 📌 Projetos Principais
 
 Café Aurora: Jogo 2D de gerenciamento desenvolvido em Python (Pygame). Foco em programação orientada a objetos, fluxos lógicos e progressão de dados.
 
@@ -32,7 +32,7 @@ TG Assistência: Sistema administrativo para assistência técnica. Gestão de c
 
 Movie Search: Aplicação web para consumo, pesquisa e exploração de dados via API externa.
 
-🎯 Objetivos Atuais
+## 🎯 Objetivos Atuais
 
 Aprofundamento em Python, Django e desenvolvimento de APIs REST.
 
